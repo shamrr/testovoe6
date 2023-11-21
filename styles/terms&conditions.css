@@ -1,0 +1,12 @@
+.terms-conditions{
+    padding: 8rem;
+}
+
+.terms-conditions__item{
+    color: #0C0C0E;
+    font-size: 2rem;
+    font-weight: 700;
+    line-height: 4rem; 
+    letter-spacing: .02rem;
+    margin-bottom: 1rem;
+}

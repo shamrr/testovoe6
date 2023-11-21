@@ -42,3 +42,7 @@
     font-weight: 400;
     line-height: 4rem;
 }
+
+.preline{
+    white-space: pre-line;
+}
