@@ -98,6 +98,12 @@
 	box-shadow: .7rem 1rem 1rem 0 rgba(0,0,0,.4);
 }
 
+.about__btn{
+	padding: 1rem 3rem;
+	margin-top: 2rem;
+	display: inline-block;
+}
+
 /* ABOUT SECTION END  */
 
 

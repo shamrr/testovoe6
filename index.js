@@ -8,3 +8,8 @@ const openGratitudePage = (e) => {
 const goToHomePage = () => {
     window.location.href = "/";
 }
+//обработка закрытия плашки с cookie
+const acceptCookies = () => {
+    const cookie = document.querySelector('#cookieAlert')
+    cookie.style.display = "none";
+}
