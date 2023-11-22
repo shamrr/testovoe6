@@ -72,6 +72,9 @@
 }
 
 @media  (max-width: 410px) {
+    .container{
+        max-width: 28rem;
+    }
     .advantages__container{
         gap: 10rem;
     }
