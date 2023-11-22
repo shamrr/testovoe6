@@ -1,0 +1,31 @@
+.service__list{
+    display: flex;
+    flex-direction: column;
+    gap: 5rem;
+}
+.service-item{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 3rem;
+}
+
+.service-item__img{
+    width: 30rem;
+}
+.service-item__img img{
+    width: 20rem;
+    height: 15rem;
+    object-fit: cover;
+}
+
+.service-item__title {
+    font-weight: 700;
+    font-size: 3rem;
+    margin-bottom: 10px;
+}
+
+.service-item__text {
+    font-size: 2rem;
+    line-height: 1.7;
+}
