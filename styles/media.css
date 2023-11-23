@@ -5,6 +5,7 @@
     .nav-list{
         display: none;
     }
+    
 }
 
 @media  (max-width: 650px) {
@@ -19,6 +20,9 @@
     }
     .welcome__text{
         width: 100%;
+    }
+    .service-item{
+        flex-direction: column;
     }
 }
 

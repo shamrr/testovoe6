@@ -12,6 +12,7 @@
 
 .service-item__img{
     width: 30rem;
+    align-self: start;
 }
 .service-item__img img{
     width: 20rem;
@@ -28,4 +29,5 @@
 .service-item__text {
     font-size: 2rem;
     line-height: 1.7;
+    text-align: justify;
 }
